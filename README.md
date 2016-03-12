@@ -1,4 +1,6 @@
 # honest_abe_sounds
+**Version** 1.0.0
+
 The audio repo for Honest Abe.
 
 Chris Toups / David DiMaggio
