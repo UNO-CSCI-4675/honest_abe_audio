@@ -3,7 +3,7 @@ The audio repo for Honest Abe.
 
 Chris Toups / David DiMaggio
 
-- File Structure:
-  - Finalized : for mastered sfx and soundtrack files that will be included in the game.
-  - SFX : for created sound effects and assorted sounds
-  - Soundtrack : for created music files
+## File Structure:
+  - Finalized/ - mastered sfx and soundtrack files included in the game
+  - SFX/ - sound effects and assorted sounds
+  - Soundtrack/ - music files
