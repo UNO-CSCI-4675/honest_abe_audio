@@ -1,3 +1,6 @@
+# Deprecated
+This repo is no longer active. All audio content should be added directly to the Unity project: https://github.com/Tlmader/honest-abe
+
 # honest_abe_sounds
 **Version** 1.0.0
 
